@@ -2,7 +2,7 @@
 
 # Hello! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=andreasabipermana.andreasabipermana))
 
 My name is Andreas Abi Permana  and I'm a System Administrator/DevOps engineer. I'm from Indonesia, living in Surakarta and currently working at Nusademy Indonesia. 
 
