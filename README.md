@@ -29,3 +29,7 @@ My name is Andreas Abi Permana  and I'm a System Administrator/DevOps engineer. 
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=andreasabipermana&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Martin's GitHub Stats" />
 </a>
 
+## Where to find me
+
+<a href="https://github.com/andreasabipermana" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://www.linkedin.com/in/andreas-abi-permana-062776116/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+
