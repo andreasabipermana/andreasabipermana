@@ -4,7 +4,7 @@
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=andreasabipermana.andreasabipermana)
 
-My name is Andreas Abi Permana  and I'm a System Administrator/DevOps engineer. I'm from Indonesia, living in Surakarta and currently working at Nusademy Indonesia. 
+My name is Andreas Abi Permana  and I'm a System Administrator/DevOps engineer. I'm from Indonesia, living in Surakarta and currently working as a IT Freelancer. 
 
 
 
