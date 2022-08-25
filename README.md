@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Andreas Abi Permana</h1>
-<h3 align="center">A passionate Web Programming, and SysAdmin from Indonesia</h3>
+<h3 align="center">A passionate Web Programmer, and SysAdmin from Indonesia</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=andreasabipermana&label=Profile%20views&color=0e75b6&style=flat" alt="andreasabipermana" /> </p>
 
