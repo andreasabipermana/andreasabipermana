@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=andreasabipermana&label=Profile%20views&color=0e75b6&style=flat" alt="andreasabipermana" /> </p>
 
-- 🌱 I’m currently learning **DevOps, and Cloud Computing**
+- 🌱 I’m currently learning **DevOps, and Cloud Computing** https://github.com/saiyam1814/DevOpsRoadmap2022
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
