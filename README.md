@@ -7,13 +7,18 @@
 
 - 🌱 I’m currently learning **[DevOps](https://github.com/saiyam1814/DevOpsRoadmap2022), and Cloud Computing** 
 
+- 📝 I regularly write articles on [https://abipermana.my.id](https://abipermana.my.id)
+
 - 💬 Ask me about **Linux Server**
 
 - 📫 How to reach me **me@abipermana.my.id**
 
+- ⚡ Fun fact **I think I'm Funny :v**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/abi_andreas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="abi_andreas" height="30" width="40" /></a>
+<a href="https://instagram.com/andreas.abi.p" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="andreas.abi.p" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
