@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Andreas Abi Permana</h1>
-<h3 align="center">A passionate Web Programming, and SysAdmin from Indonesia</h3>
+<h3 align="center">A passionate Security Engineering from Indonesia</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=andreasabipermana&label=Profile%20views&color=0e75b6&style=flat" alt="andreasabipermana" /> </p>
 
-- 🔭 I’m currently working on [CryptAPI](https://github.com/andreasabipermana/CryptAPI)
+- 🔭 I’m currently learning **DevSecOps, Cloud Computing Security, and Security Engineering.** 
 
-- 🌱 I’m currently learning **[DevOps](https://github.com/saiyam1814/DevOpsRoadmap2022), Cloud Computing, and Flutter.** 
-
+- 🌱 I’m currently active in Paguyuban Linux Solo Community.
+ 
 - 📝 I regularly write articles on [https://abipermana.my.id](https://abipermana.my.id)
 
-- 💬 Ask me about **Linux Server**
+- 💬 Ask me about **Free/Libre Open Source Software**
 
 - 📫 How to reach me **me@abipermana.my.id**
 
