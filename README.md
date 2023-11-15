@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently learning **DevSecOps, Cloud Computing Security, and Security Engineering.** 
 
-- 🌱 I’m currently active in [Paguyuban Linux Solo Community](https://linuxsolo.or.id).
+- 🌱 I’m currently active in [Paguyuban Linux Solo Community](https://linuxsolo.or.id)
  
 - 📝 I regularly write articles on [https://abipermana.my.id](https://abipermana.my.id)
 
