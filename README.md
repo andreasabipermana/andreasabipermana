@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Andreas Abi Permana</h1>
-<h3 align="center">A passionate Security Engineer from Indonesia</h3>
+<h3 align="center">A passionate Cyber Security Engineer from Indonesia</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=andreasabipermana&label=Profile%20views&color=0e75b6&style=flat" alt="andreasabipermana" /> </p>
 
 - 🔭 I’m currently learning **DevSecOps, Cloud Computing Security, and Security Engineering.** 
 
-- 🌱 I’m currently active in Paguyuban Linux Solo Community.
+- 🌱 I’m currently active in [Paguyuban Linux Solo Community](https://linuxsolo.or.id).
  
 - 📝 I regularly write articles on [https://abipermana.my.id](https://abipermana.my.id)
 
