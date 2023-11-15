@@ -4,15 +4,10 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=andreasabipermana&label=Profile%20views&color=0e75b6&style=flat" alt="andreasabipermana" /> </p>
 
 - 🔭 I’m currently learning **DevSecOps, Cloud Computing Security, and Security Engineering.** 
-
 - 🌱 I’m currently active in [Paguyuban Linux Solo Community](https://linuxsolo.or.id)
- 
 - 📝 I regularly write articles on [https://abipermana.my.id](https://abipermana.my.id)
-
 - 💬 Ask me about **Free/Libre Open Source Software**
-
 - 📫 How to reach me **me@abipermana.my.id**
-
 - ⚡ Fun fact **I think I'm Funny :v**
 
 <h3 align="left">Connect with me:</h3>
